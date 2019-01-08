@@ -1,0 +1,69 @@
+body {   
+background-image: url(fon.jpg);
+width:100%;
+height:100%;      
+ }
+  @font-face {
+font-family: 'DitedRegular';
+src: url('fonts/DitedRegular.ttf');
+ }
+ #header{
+	 margin-top:2%;
+	 margin-left: auto;
+	 margin-right:auto;
+	 color: #fff;
+	 text-align:center;
+	 font-family:DitedRegular;
+ }
+ #main img {
+	 width:80%; 
+ }
+#main {
+	width:50%;
+	font-size:30px;
+	color: #fff;
+	 text-align:center;
+	 margin-left: auto;
+	 margin-right:auto;
+	 font-family:DitedRegular;
+}
+#script {
+		 text-align:center;
+	 margin-left: auto;
+	 margin-right:auto;
+	 color: #fff;
+	 font-family:DitedRegular;
+}
+input{
+width: 250px;
+height:30px;
+border-radius: 4px;	
+outline:none;
+font-family:DitedRegular;
+font-size:18px;
+}
+button{
+	width:250px;
+	height:50px;
+	margin-top:2%;
+	background-color:#fff;
+	color: #000;
+	font-size:25px;
+	outline:none;
+	font-family:DitedRegular;
+}
+#monk{
+	width:100px;
+	font-family:DitedRegular;
+}
+h3{
+bottom:0;
+left:0;
+position:fixed;
+color:red;
+font-family:DitedRegular;
+font-size: 80%;
+}
+#answer{
+	font-size: 25px;
+}
